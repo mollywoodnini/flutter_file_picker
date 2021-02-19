@@ -23,7 +23,7 @@ flutter:
         package: com.mr.flutter.plugin.filepicker
         pluginClass: FilePickerPlugin
       ios:
-        pluginClass: HelloWorld
+        pluginClass: FilePickerPlugin
       web:
         pluginClass: FilePickerWeb
         fileName: src/file_picker_web.dart
